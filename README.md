@@ -9,12 +9,18 @@ Dynamic Scaling: New backend servers are created when request load is high, and 
 This setup simulates cloud auto-scaling in a practical, visual way.
 
 Features
+
 Round-robin load balancing
+
 Automatic backend server scaling based on request thresholds
+
 Manual control of servers via Docker
 
 Future Enhancements
+
 Streamlit dashboard for live monitoring of backend servers
+
 Auto-scaling based on CPU/memory metrics
+
 Deployment on cloud infrastructure for real-world demonstration
 
